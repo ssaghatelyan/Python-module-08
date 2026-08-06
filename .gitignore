@@ -1,5 +1,0 @@
-matrix_env/
-__pycache__/
-*.pyc
-.env
-matrix_analysis.png
